@@ -27,6 +27,11 @@
 - Melissa - Question 3
 - Robert - Question 1
 
+
 ## Data Source
+https://spotifycharts.com/regional/
+
 
 ## Data Collected
+Top 200 songs and stream counts in US for past 52 weeks
+Top 20o songs and stream counts Globally for past 52 weeks
